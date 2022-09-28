@@ -1,0 +1,40 @@
+
+
+h1,h2, h3, h4 {color: rgb(209, 166, 25)
+    ;font-size: 40px; 
+    font-family: sans-serif;}
+    
+    body {
+        position: absolute;
+        margin: auto;
+        padding-left: ;
+        background-color:
+         whitesmoke;
+    }
+    
+   .ortalama {list-style-position: inside;}
+    
+    p {
+        color:saddlebrown; 
+         font-weight: bolder; 
+         font-style: calc();
+    }
+    
+    article {font-family: cursive;}
+
+ 
+ 
+    .sayfaorta {
+        margin:0 auto;
+        margin-left: 50%;
+        margin-right:50%;
+        width: 960px;
+        background: whitesmoke;
+    }
+    article a {margin-left: 12px;
+
+    }
+    
+
+
+    
